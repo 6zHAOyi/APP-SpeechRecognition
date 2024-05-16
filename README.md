@@ -2,4 +2,4 @@ This is a simple speech enhancement and recognition APP for mobile phone. This a
 
 If you only want to give it a try, you just need to download this app and install it on your phone. The app supports several languages including Chinese, English etc. 
 
-<iframe src="Asset/demo.gif">
+<iframe src="demo.gif">
